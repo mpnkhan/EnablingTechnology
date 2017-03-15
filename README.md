@@ -22,7 +22,6 @@ https://youtu.be/HCAwPBbDkhk
 
 3. Intelligent Truly Wireless Earbuds- Hear What You Want to Hear
 https://youtu.be/zvPmIQTWPCY
-https://youtu.be/cRqXwXB9JIE
 http://www.nuheara.com
 
 ## Motor:
