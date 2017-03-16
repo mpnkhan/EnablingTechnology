@@ -1,4 +1,4 @@
-## Various new technologies than can help people with Disability.
+## Various new technologies than can help People With Disability.
 It is commonly know that technologies like Voiceover on iPhone or Talkbak on android can do marvel for people who can't see. 
 Likewise there are many technologies that are not quiet popular, but which is evolving and could help people with disabilities. This is a small list of those technlogies. Whenever i find a useful technology, i add it but please feel free to raise a pull request to edit or update it. 
 
