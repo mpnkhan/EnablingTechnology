@@ -26,6 +26,8 @@ https://youtu.be/HCAwPBbDkhk
 https://youtu.be/zvPmIQTWPCY
 http://www.nuheara.com
 
+4. Youtube's automatic captioning could not detect applause, sound, music etc. https://youtube-eng.googleblog.com/2017/03/visualizing-sound-effects.html
+
 ## Motor:
 
 1. Google- Voice Access, which lets people control their Android phone with  voice commands. https://play.google.com/apps/testing/com.google.android.apps.accessibility.voiceaccess
